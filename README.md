@@ -1,5 +1,9 @@
 # Notes
 
+# File Upload
+* https://github.com/VeliovGroup/Meteor-Files#demo-application
+* https://github.com/CollectionFS/Meteor-CollectionFS
+
 # SASS
 * https://github.com/fourseven/meteor-scss
 
