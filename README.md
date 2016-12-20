@@ -1,5 +1,9 @@
 # Notes
 
+## Session, Reactive
+>  https://blog.meteor.com/the-meteor-chef-reactive-dict-reactive-vars-and-session-variables-971584515a27#.vn70ydkqm
+
+
 ## Fibers
 * https://meteorhacks.com/fibers-eventloop-and-meteor.html
 
