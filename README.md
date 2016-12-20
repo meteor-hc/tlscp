@@ -1,10 +1,28 @@
 # Notes
 
-# File Upload
+## Fibers
+* https://meteorhacks.com/fibers-eventloop-and-meteor.html
+
+## Routing
+* https://kadira.io/academy/meteor-routing-guide/content/introduction-to-flow-router
+
+* https://github.com/flow-examples/flow-router-guide-example
+* https://github.com/kadirahq/blaze-layout
+* https://github.com/flow-examples/flow-router-guide-example/blob/with-blaze-subdata/server/app.js
+* https://atmospherejs.com/arillo/flow-router-helpers
+* https://kadira.io/academy/meteor-routing-guide/content/accessing-the-url-state
+* https://meteorhacks.com/subscriptions-manager-is-here/#why-subscriptions-manager
+* Loading and waste : https://meteorhacks.com/flow-router-and-subscription-management/
+* https://kadira.io/academy/meteor-routing-guide/content/subscriptions-and-data-management/with-blaze
+* https://medium.com/@satyavh/using-flow-router-for-authentication-ba7bb2644f42#.dcvfcecsz
+* https://github.com/pillarjs/path-to-regexp
+
+
+## File Upload
 * https://github.com/VeliovGroup/Meteor-Files#demo-application
 * https://github.com/CollectionFS/Meteor-CollectionFS
 
-# SASS
+## SASS
 * https://github.com/fourseven/meteor-scss
 
 ## Offline mode

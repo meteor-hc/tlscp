@@ -1,7 +1,5 @@
 import { Posts } from '/imports/api/posts.js'
 
-console.log('Fixtures', Posts.find().count())
-
 if (Posts.find().count() === 0) {
   const posts = [
     {
