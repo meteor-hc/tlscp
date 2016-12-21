@@ -1,5 +1,14 @@
 # Notes
 
+## GraphQL
+* https://blog.meteor.com/the-meteor-chef-an-introduction-to-apollo-b1904955289e#.d9g6epkbw
+
+## Neo4j
+
+* https://medium.com/@chetcorcos/shindig-reactive-meteor-publish-subscribe-with-any-database-feb09105c343#.p94u4rshd
+* https://meteorhacks.com/understanding-mergebox/
+* https://github.com/VeliovGroup/ostrio-neo4jdriver/blob/master/demo/.meteor/release
+
 ## Session, Reactive
 >  https://blog.meteor.com/the-meteor-chef-reactive-dict-reactive-vars-and-session-variables-971584515a27#.vn70ydkqm
 
